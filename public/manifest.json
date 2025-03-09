@@ -1,7 +1,7 @@
 {
   "name": "Chimmy Series",
   "short_name": "Chimmy",
-  "start_url": "/",
+  "start_url": "https://chimmy-series.netlify.app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff6b81",
@@ -44,5 +44,5 @@
     "minimal-ui",
     "window-controls-overlay"
   ],
-  "scope": "/"
+  "scope": "https://chimmy-series.netlify.app/"
 }
